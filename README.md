@@ -1,5 +1,4 @@
 # clarkian-python-ml-intro
-Covering Python fundamentals, explainable ML (SHAP), LightGBM, XGBoost, PyTorch Forecasting, overfitting, MLOps and more. A work in progress. But one that will converge to something interesting.
 
 [Workbook 1 - Getting Started with Python & Google Colab](https://colab.research.google.com/github/clarkian-teachings/clarkian-python-ml-intro/blob/main/notebooks/Python_Teaching_Workbook_1.ipynb)
 
