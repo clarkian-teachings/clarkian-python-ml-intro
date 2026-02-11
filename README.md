@@ -12,3 +12,7 @@
 
 [Workbook 6 - Classification: Churn Analysis](https://colab.research.google.com/github/clarkian-teachings/clarkian-python-ml-intro/blob/main/notebooks/Python_Teaching_Workbook_6.ipynb)
 
+[Workbook 7 - Forecasting](https://colab.research.google.com/github/clarkian-teachings/clarkian-python-ml-intro/blob/main/notebooks/Python_Teaching_Workbook_7.ipynb)
+
+[Questions?](https://github.com/clarkian-teachings/clarkian-python-ml-intro/blob/main/images/AreThereAnyQuestions.jpg)
+
